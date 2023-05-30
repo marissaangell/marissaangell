@@ -8,4 +8,6 @@ I'm a software developer and game dev with experience in a wide range of technic
 | --------- | ------------------------------------------------------------ |
 | Portfolio | [marissaangell.github.io](https://marissaangell.github.io/)  |
 | Itch.io   | [marissaangell.itch.io](https://marissaangell.itch.io/)      |
+| Artstation | [artstation.com/marissaangell](https://www.artstation.com/marissaangell) |
 | LinkedIn  | [linkedin.com/in/marissa-angell](https://www.linkedin.com/in/marissa-angell/) |
+
